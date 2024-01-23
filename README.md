@@ -1,4 +1,4 @@
-# 💫 Sobre Mi:
+# 💫 About Me:
 ¡Bienvenido a mi perfil de GitHub! <br>Soy una pasante de Actuaría de 24 años .<br>Mi interés principal se centra en el Análisis de Datos, con un enfoque especializado en el campo financiero y actuarial.<br>En mi perfil de GitHub, encontrarás proyectos que reflejan mi dedicación a explorar y aplicar estas habilidades, así como mi entusiasmo por contribuir al mundo de la actuaría y la ciencia de datos. 
 
 
